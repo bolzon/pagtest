@@ -1,0 +1,14 @@
+{
+  "name": "pagtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pagtest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bolzon <blzn@mail.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "pagseguro": "^0.1.0"
+  }
+}
